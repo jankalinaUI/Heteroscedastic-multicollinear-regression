@@ -23,7 +23,7 @@ finally regularized regression quantiles: StandardAnalysis.R, Quantiles.R, Regul
 ## Authors
   * Jan Kalina, The Czech Academy of Sciences, Institute of Computer Science
   * Eva Litavcová, University of Prešov
-  * Nicole Tobišková, University of Prešov
+  * Petra Vašaničová, University of Prešov
 
 ## Contact
 
